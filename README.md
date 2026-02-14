@@ -26,12 +26,6 @@ All visualizations were built in **Tableau Desktop**.
 
 | File | Description |
 |---|---|
-| `fatalities_isr_pse_conflict_2000_to_2023(MAPS).csv` | Raw dataset used for all visualizations |
-| `Tableau Workbook MUHAMMAD HAZIQ BIN ROZMAN 52224121174.twbx` | Tableau workbook containing all dashboards and charts |
-| `ANALYSIS REPORT MUHAMMAD HAZIQ BIN ROZMAN (52224121174).pdf` | Full written report with findings, elaboration, and recommendations |
-
----
-
-## Full Report
-
-The complete analysis report — including research questions, findings elaboration, and recommendations — is available in this repository: [ANALYSIS REPORT MUHAMMAD HAZIQ BIN ROZMAN (52224121174).pdf]([https://github.com/haziqrozman/IOT--BASED-SUPPLY-CHAIN-OF-FROZEN-FOOD-MONITORING/blob/c50c21ead2e905137703e1940a82e14c973ba06f/IOTBASED%20SUPPLY%20CHAIN%20OF%20FROZEN%20FOOD%20MONITORING%20MUHAMMAD%20HAZIQ%20BIN%20ROZMAN.pdf](https://github.com/haziqrozman/Data-visualization-palestine-israel-2000-2023/blob/ed5f2e14a0cee4e65ad15a18ae26e327093f9230/ANALYSIS%20REPORT%20MUHAMMAD%20HAZIQ%20BIN%20ROZMAN%20(52224121174).pdf))
+| [`fatalities_isr_pse_conflict_2000_to_2023(MAPS).csv`](https://github.com/haziqrozman/Data-visualization-palestine-israel-2000-2023/blob/fb9a3196e43a6ad9f36cf31ac34c19a30ca8aae4/fatalities_isr_pse_conflict_2000_to_2023(MAPS).csv) | Raw dataset used for all visualizations |
+| [`Tableau Workbook MUHAMMAD HAZIQ BIN ROZMAN 52224121174.twbx`](https://github.com/haziqrozman/Data-visualization-palestine-israel-2000-2023/blob/fb9a3196e43a6ad9f36cf31ac34c19a30ca8aae4/Tableau%20Workbook%20MUHAMMAD%20HAZIQ%20BIN%20ROZMAN%2052224121174.twbx) | Tableau workbook containing all dashboards and charts |
+| [`ANALYSIS REPORT MUHAMMAD HAZIQ BIN ROZMAN (52224121174).pdf`](https://github.com/haziqrozman/Data-visualization-palestine-israel-2000-2023/blob/fb9a3196e43a6ad9f36cf31ac34c19a30ca8aae4/ANALYSIS%20REPORT%20MUHAMMAD%20HAZIQ%20BIN%20ROZMAN%20(52224121174).pdf) | Full written report with findings, elaboration, and recommendations |
