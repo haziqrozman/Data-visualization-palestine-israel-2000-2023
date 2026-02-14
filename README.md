@@ -34,4 +34,4 @@ All visualizations were built in **Tableau Desktop**.
 
 ## Full Report
 
-The complete analysis report — including research questions, findings elaboration, and recommendations — is available in this repository: https://github.com/haziqrozman/Data-visualization-palestine-israel-2000-2023/blob/69a9654e95e4bf29118f7437cfc324490e4fc4c6/ANALYSIS%20REPORT%20MUHAMMAD%20HAZIQ%20BIN%20ROZMAN%20(52224121174).pdf
+The complete analysis report — including research questions, findings elaboration, and recommendations — is available in this repository: [https://github.com/haziqrozman/Data-visualization-palestine-israel-2000-2023/blob/69a9654e95e4bf29118f7437cfc324490e4fc4c6/ANALYSIS%20REPORT%20MUHAMMAD%20HAZIQ%20BIN%20ROZMAN%20(52224121174).pdf](https://github.com/haziqrozman/Data-visualization-palestine-israel-2000-2023/blob/298522a5731806cf06c565072e6efc17fb7919c9/ANALYSIS%20REPORT%20MUHAMMAD%20HAZIQ%20BIN%20ROZMAN%20(52224121174).pdf)
